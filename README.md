@@ -12,6 +12,3 @@ I'm interested in how technology shapes the way stories are told, distributed, a
 
 In 2026, I'm taking the first half of the year as a sabbatical. I'm using the time to seriously study the impact of AI on the industry; not just reading and talking about it, but experimenting hands-on with tools and approaches on solo projects. I've been revisiting my open-source work, sharpening my TypeScript fundamentals, and brushing up on my ES6+. Working through *The Art of Computer Programming* at a leisurely pace has been a particular pleasure. 
 
-Code may be cheap to generate now, but Big O is not. Efficient algorithms matter more than ever, and so does the discipline to gate the costly and pernicious ones, and something I've been thinking through as an IC, as a manager, and as the occasional entrepreneur.
-
-Beyond the technical, the break has given me space to give up smoking, slow down, and generally be less stressed. I'm also relocating from upstate New York to Florida soon.
