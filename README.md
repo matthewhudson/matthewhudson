@@ -6,7 +6,9 @@ $ whoami
 > geeky lead geek
 ```
 
-I am a lead programmer who has spent most of his career building for media and publishing. Most recently, I've led projects at **Code and Theory**, working with clients like _RealClearPolitics_ and _The Minnesota Star Tribune_. Previously, I've built products at **Condé Nast** (_Vanity Fair_, _The New Yorker_), **Betaworks**, **Pager**, and **SeatGeek**.
+I am a lead programmer who has spent most of his career building for media and publishing. I'm interested in how technology shapes the way stories are told, distributed, and experienced. 
 
-I'm interested in how technology shapes the way stories are told, distributed, and experienced. 
+Most recently, I've led projects at **Code and Theory**, working with clients like _RealClearPolitics_ and _The Minnesota Star Tribune_. Previously, I've built products at **Condé Nast** (_Vanity Fair_, _The New Yorker_), **Betaworks**, **Pager**, and **SeatGeek**.
+
+
 
